@@ -6,5 +6,5 @@ Blending design and code is what drives me — whether I’m animating interface
 
 Currently based in Paris 🇫🇷, and always curious about new ways to connect people through technology and creativity.
 
-→ [stan-husson.com]([https://stan-husson.com](https://stan-husson.vercel.app/)  
+→ [stan-husson.com](https://stan-husson.com](https://stan-husson.vercel.app/)  
 → [LinkedIn](https://www.linkedin.com/in/stan-husson/)
