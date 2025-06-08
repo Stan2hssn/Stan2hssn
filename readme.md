@@ -1,0 +1,10 @@
+# Hey, I’m Stan 👋
+
+I’m a 22-year-old **Creative Developer** with a background in **UI/UX design**, currently focused on building **immersive, high-performance web experiences**.
+
+Blending design and code is what drives me — whether I’m animating interfaces with **Three.js** and **GSAP**, prototyping in **Figma**, or crafting custom shaders. I love pushing the boundaries of interaction to create digital moments that feel alive, intuitive, and emotionally resonant.
+
+Currently based in Paris 🇫🇷, and always curious about new ways to connect people through technology and creativity.
+
+→ [stan-husson.com](https://stan-husson.com)  
+→ [LinkedIn](https://www.linkedin.com/in/stan-husson)
